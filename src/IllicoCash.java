@@ -4,4 +4,9 @@ public class IllicoCash implements IPaymentService{
         this.IllicoID=IllicoID;
     }
 
+    @Override
+    public void DepositMoney(String PhoneNumber, double amount) {
+        System.out.println("the illicoId is :" + IllicoID);
+        System.out.println("Deposit" + amount + "USD to" + PhoneNumber + "via Illiccash");
+    }
 }
