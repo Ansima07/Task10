@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d0f785-4f06-4876-bb8d-b3aee475d7db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DepositProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DepositProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepositProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Branch-3",
+    "git-widget-placeholder": "Branch-4",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>

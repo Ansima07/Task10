@@ -3,4 +3,7 @@ public class DepositProcessor {
     public DepositProcessor(IPaymentService paymentService){
         this.paymentService=paymentService;
     }
+    public void depositprocess(String Number, double amount){
+        paymentService.DepositMoney(Number, amount);
+    }
 }
